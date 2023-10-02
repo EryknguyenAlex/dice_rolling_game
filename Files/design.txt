@@ -1,0 +1,16 @@
+It'll be a dice rolling game, where you can input the times of rolling.
+And it will roll with the times that you've entered
+Then, it'll display the random results, operate with the face of dice present on the screen
+
+NOUN:
+    1.Dice_Rolling
+
+
+VERB:
+    roll - 1
+    list -
+    random.choice
+    input
+
+
+
